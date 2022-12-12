@@ -47,7 +47,7 @@ After a correct installation, your configuration directory should look like the 
     ```
     # Example configuration.yaml entry
     media_player:
-      - platform: falcon_pi_player
+      - platform: fpp
         name: FPP_NAME
         host: IP_ADDRESS (or hostname)
 
